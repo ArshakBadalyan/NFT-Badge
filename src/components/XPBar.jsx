@@ -1,7 +1,7 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import PropTypes from 'prop-types';
-import { metadataPopup } from '@/metadata';
+import React from "react";
+import { motion } from "framer-motion";
+import PropTypes from "prop-types";
+import { metadataPopup } from "@/metadata";
 
 // Define metadata for the page
 export const metadata = {
@@ -12,14 +12,14 @@ export const metadata = {
 
 /**
  * XPBar Component
- * 
+ *
  * Displays a progress bar representing the user's experience points (XP).
  * The bar visually indicates the current XP relative to a maximum XP value.
- * 
+ *
  * Props:
  * - xp (number): Current experience points that the user has.
  * - maxXp (number): Maximum experience points that can be achieved.
- * 
+ *
  * Usage:
  * <XPBar xp={currentXp} maxXp={maximumXp} />
  */
@@ -32,9 +32,7 @@ const XPBar = ({ xp, maxXp }) => {
         <motion.div>
           XP: <span className="text-[#F08E3C]">{xp}</span>
         </motion.div>
-        <motion.div>
-          {maxXp}
-        </motion.div>
+        <motion.div>{maxXp}</motion.div>
       </motion.div>
       <motion.div className="w-full h-5 bg-gray-200 overflow-hidden !bg-[#35241C] border-4 border-[#2a1a11]">
         <motion.div
@@ -55,4 +53,3 @@ XPBar.propTypes = {
 };
 
 export default XPBar;
-

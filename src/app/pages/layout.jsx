@@ -1,5 +1,5 @@
-import '../../styles/global.css';
-import '../../styles/tailwind.css';
+import "../../styles/global.css";
+import "../../styles/tailwind.css";
 
 export default function PagesLayout({ children }) {
   return (
