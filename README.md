@@ -1,4 +1,5 @@
-![Logo]()
+
+![Logo](https://github.com/user-attachments/assets/f9bf8175-cfd1-4c3f-a083-50de9b5643b9)
 
 # NFT Reward Application
 
@@ -7,7 +8,7 @@ The NFT Reward Application is a Next.js project that features interactive animat
 ## Installation
 
 Getting Started
-To get started with the project, first clone the repository and navigate into the project directory.
+To get started with the project, first, clone the repository and navigate into the project directory.
 
 Then, run the development server:
 bash
@@ -28,7 +29,7 @@ Open http://localhost:3000 in your browser to see the application in action. The
 - styles/: Contains global styles and component-specific styles.
 - metadata.js: Manages metadata for the application.
 - Fonts
-- This project uses next/font to automatically optimize and load custom fonts.
+- This project uses next/font to optimize and load custom fonts automatically.
 
 ## Features
 
@@ -65,7 +66,7 @@ You can also check out the Next.js GitHub repository for more resources and to c
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/ArshakBadalyan/NFT-Badge.git)
 ```
 
 Go to the project directory
@@ -88,4 +89,8 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot]()
+![Screenshot from 2024-10-14 01-48-50](https://github.com/user-attachments/assets/3f7357c7-02fa-4c07-81d9-a86d330739ea)
+![Screenshot from 2024-10-14 01-49-08](https://github.com/user-attachments/assets/df163520-0468-44d9-a057-5482833d9274)
+![Screenshot from 2024-10-14 01-49-25](https://github.com/user-attachments/assets/96817ae2-0285-4c72-8235-92d6058a64ca)
+![Screenshot from 2024-10-14 01-48-59](https://github.com/user-attachments/assets/b9bfb950-8f57-40d2-a775-ec93ea1e5709)
+
