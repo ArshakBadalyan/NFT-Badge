@@ -30,7 +30,7 @@ Open http://localhost:3000 in your browser to see the application in action. The
 - styles/: Contains global styles and component-specific styles.
 - metadata.js: Manages metadata for the application.
 - Fonts
-- This project uses next/font to automatically optimize and load custom fonts.
+- This project uses next/font to optimize and load custom fonts automatically.
 
 
 ## Features
@@ -71,7 +71,7 @@ You can also check out the Next.js GitHub repository for more resources and to c
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/ArshakBadalyan/NFT-Badge.git)
 ```
 
 Go to the project directory
